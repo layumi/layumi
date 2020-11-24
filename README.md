@@ -21,8 +21,8 @@ Contact Me:
 
 ✉ Email: zhedong.zheng@student.uts.edu.au
 
-✧ Github: https://github.com/layumi
-
 ✧ Website: http://zdzheng.xyz
+
+✧ Linkedin: https://www.linkedin.com/in/zhedongzheng/
 
 ✧ Google Scholar: https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ 
