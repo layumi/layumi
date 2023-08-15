@@ -26,3 +26,5 @@ Contact Me:
 ✧ Linkedin: https://www.linkedin.com/in/zhedongzheng/
 
 ✧ Google Scholar: https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ 
+
+<meta name="og:image" content="https://zdzheng.xyz/images/profile.webp">
