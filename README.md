@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Contact Me:
 
-✉ Email: zhedong.zheng@student.uts.edu.au
+✉ Email: zhedongzheng AT um.edu.mo
 
 ✧ Website: http://zdzheng.xyz
 
